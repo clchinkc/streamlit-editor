@@ -1,6 +1,6 @@
 # LLM-Powered Document Editor: DSPy & LangChain Integration for Intelligent Writing (OpenRouter/OpenAI/Deepseek/Gemini/Github/Ollama)
 
-[![X URL](https://img.shields.io/twitter/url/https/x.com/firstoryapp.svg?style=social&label=Follow%20%40doc_editor_saas)](https://x.com/firstoryapp)
+[![X URL](https://img.shields.io/twitter/url/https/x.com/firstoryapp.svg?style=social&label=Follow%20%40firstoryapp)](https://x.com/firstoryapp)
 [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doc-editor.streamlit.app)
 
 **An intelligent writing assistant with multi-LLM integration for enhanced content creation and editing.**
